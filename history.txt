@@ -1,0 +1,559 @@
+    1  cd Downloads ls
+    2  cd Downloads
+    3  ls
+    4  bash Anaconda3-2019.10-Linux-x86_64.sh 
+    5  conda list
+    6  reboot
+    7  cd Downloads
+    8  ls
+    9  bash Anaconds
+   10  bash Anaconda
+   11  cd Downloads
+   12  ls
+   13  bash Anaconda
+   14  reboot
+   15  cd `
+   16  cd ~
+   17  conda
+   18  jupiter notebook
+   19  jupyter notebook
+   20  cd ~
+   21  conda
+   22  jupyter notebook
+   23  cd ~
+   24  jupyter nootebook
+   25  cd ~
+   26  export PATH=~/anaconda3/bin:$PATH
+   27  jupyter notebook
+   28  cd ~
+   29  conda
+   30  jupyter notebook
+   31  reboot
+   32  cd ~
+   33  export PATH=~/anaconda3/bin:$PATH
+   34  jupyter
+   35  jupyter notebook
+   36  cd ~
+   37  export PATH=~/anaconda3/bin:$PATH
+   38  jupyter
+   39  jupyter notebook
+   40  cd ~
+   41  export PATH=~/anaconda3/bin:$PATH
+   42  jupyter notebook
+   43  export PATH=~/anaconda3/bin:$PATH
+   44  jupyter notebook
+   45  cd ~
+   46  jupyter notebook
+   47  cd ~
+   48  export PATH=~/anaconda3/bin:$PATH
+   49  jupyter notebook
+   50  cd ~
+   51  export PATH=~/anaconda3/bin:$PATH
+   52  jupyter
+   53  jupyter notebook
+   54  cd ~
+   55  export PATH=~/anaconda3/bin:$PATH
+   56  jupyter
+   57  jupyter notebook
+   58  cd ~
+   59  export PATH=~/anaconda3/bin:$PAT
+   60  jupyter notebook
+   61  cd ~
+   62  export PATH=~/anaconda3/bin:$PATH
+   63  Jupyter notebook
+   64  python3
+   65  python3.7 
+   66  python3
+   67  source /home/recruit/anaconda3/bin/activate
+   68  conda activate base
+   69  /home/recruit/anaconda3/bin/python
+   70  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 46305 /home/recruit/Desktop/hellp.py 
+   71  source /home/recruit/anaconda3/bin/activate
+   72  conda activate base
+   73  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43997 /home/recruit/Desktop/hellp.py 
+   74  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34147 /home/recruit/Desktop/hellp.py 
+   75  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38237 /home/recruit/Desktop/hellp.py 
+   76  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33299 /home/recruit/Desktop/hellp.py 
+   77  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39661 /home/recruit/Desktop/hellp.py 
+   78  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40181 /home/recruit/Desktop/hellp.py 
+   79  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46463 /home/recruit/Desktop/hellp.py 
+   80  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38835 /home/recruit/Desktop/hellp.py 
+   81  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34897 /home/recruit/Desktop/hellp.py 
+   82  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40843 /home/recruit/Desktop/hellp.py 
+   83  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39425 /home/recruit/Desktop/hellp.py 
+   84  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46883 /home/recruit/Desktop/hellp.py 
+   85  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40269 /home/recruit/Desktop/hellp.py 
+   86  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44697 /home/recruit/Desktop/hellp.py 
+   87  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36007 /home/recruit/Desktop/hellp.py 
+   88  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33943 /home/recruit/Desktop/hellp.py 
+   89  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40289 /home/recruit/Desktop/hellp.py 
+   90  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37237 /home/recruit/Desktop/hellp.py 
+   91  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45821 /home/recruit/Desktop/hellp.py 
+   92  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34377 /home/recruit/Desktop/my1project/secondproject.py 
+   93  source /home/recruit/anaconda3/bin/activate
+   94  conda activate base
+   95  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46381 /home/recruit/Desktop/my1project/secondproject.py 
+   96  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43783 /home/recruit/Desktop/my1project/secondproject.py 
+   97  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45779 /home/recruit/Desktop/my1project/secondproject.py 
+   98  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34529 /home/recruit/Desktop/my1project/secondproject.py 
+   99  cd /home/recruit/Desktop/my1project ; env ELECTRON_RUN_AS_NODE=1 USER=recruit LANGUAGE=en_ZA:en TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1912 SHLVL=1 QT4_IM_MODULE=xim HOME=/home/recruit DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=recruit GTK_IM_MODULE=ibus USERNAME=recruit XDG_SESSION_ID=2 WINDOWPATH=2 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_ZA.UTF-8 XDG_CURRENT_DESKTOP=Unity XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=2 QT_IM_MODULE=xim PWD=/home/recruit CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/recruit-ThinkCentre-M73:@/tmp/.ICE-unix/1817,unix/recruit-ThinkCentre-M73:/tmp/.ICE-unix/1817 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/code.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=2683 GJS_DEBUG_OUTPUT=stderr 'GJS_DEBUG_TOPICS=JS ERROR;JS LOG' NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/recruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/recruit/.config/Code/logs/20191126T083928 VSCODE_IPC_HOOK=/run/user/1000/vscode-9bdfb7b1-1.40.1-main.sock VSCODE_PID=2683 CONDA_DEFAULT_ENV=base CONDA_EXE=/home/recruit/anaconda3/bin/conda CONDA_PREFIX=/home/recruit/anaconda3 'CONDA_PROMPT_MODIFIER=(base) ' CONDA_PYTHON_EXE=/home/recruit/anaconda3/bin/python CONDA_SHLVL=1 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= _=/usr/share/code/code _CE_CONDA= _CE_M= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-57a4c191-32a2-4e0a-bfb0-46ac141dbc64.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true PATH=/home/recruit/anaconda3/bin:/home/recruit/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44719 /home/recruit/Desktop/my1project/secondproject.py 
+  100  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37523 /home/recruit/Desktop/secpro.py 
+  101  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44319 /home/recruit/Desktop/secpro.py 
+  102  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39941 /home/recruit/Desktop/secpro.py 
+  103  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34361 /home/recruit/Desktop/secpro.py 
+  104  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35017 /home/recruit/Desktop/secpro.py 
+  105  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41587 /home/recruit/Desktop/secpro.py 
+  106  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46309 /home/recruit/Desktop/secpro.py 
+  107  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39747 /home/recruit/Desktop/secpro.py 
+  108  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34475 /home/recruit/Desktop/secpro.py 
+  109  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38829 /home/recruit/Desktop/secpro.py 
+  110  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40251 /home/recruit/Desktop/secpro.py 
+  111  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44765 /home/recruit/Desktop/secpro.py 
+  112  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33763 /home/recruit/Desktop/secpro.py 
+  113  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34597 /home/recruit/Desktop/secpro.py 
+  114  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 32929 /home/recruit/Desktop/secpro.py 
+  115  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46403 /home/recruit/Desktop/secpro.py 
+  116  source /home/recruit/anaconda3/bin/activate
+  117  conda activate base
+  118  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/my1project/secondproject.py
+  119  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/secpro.py
+  120  source /home/recruit/anaconda3/bin/activate
+  121  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44633 /home/recruit/Desktop/secpro.py 
+  122  conda activate base
+  123  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41263 /home/recruit/Desktop/secpro.py 
+  124  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41807 /home/recruit/Desktop/secpro.py 
+  125  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44473 /home/recruit/Desktop/secpro.py 
+  126  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36445 /home/recruit/Desktop/secpro.py 
+  127  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44975 /home/recruit/Desktop/secpro.py 
+  128  cd /home/recruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 USER=recruit LANGUAGE=en_ZA:en TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1912 SHLVL=1 QT4_IM_MODULE=xim HOME=/home/recruit DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=recruit GTK_IM_MODULE=ibus USERNAME=recruit XDG_SESSION_ID=2 WINDOWPATH=2 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_ZA.UTF-8 XDG_CURRENT_DESKTOP=Unity XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=2 QT_IM_MODULE=xim PWD=/home/recruit CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/recruit-ThinkCentre-M73:@/tmp/.ICE-unix/1817,unix/recruit-ThinkCentre-M73:/tmp/.ICE-unix/1817 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/code.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=5812 GJS_DEBUG_OUTPUT=stderr 'GJS_DEBUG_TOPICS=JS ERROR;JS LOG' NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/recruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/recruit/.config/Code/logs/20191126T104736 VSCODE_IPC_HOOK=/run/user/1000/vscode-9bdfb7b1-1.40.1-main.sock VSCODE_PID=5812 CONDA_DEFAULT_ENV=base CONDA_EXE=/home/recruit/anaconda3/bin/conda CONDA_PREFIX=/home/recruit/anaconda3 'CONDA_PROMPT_MODIFIER=(base) ' CONDA_PYTHON_EXE=/home/recruit/anaconda3/bin/python CONDA_SHLVL=1 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= _=/usr/share/code/code _CE_CONDA= _CE_M= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-dbd4ba6c-9b54-4086-99ac-384d06582750.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true PATH=/home/recruit/anaconda3/bin:/home/recruit/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 40387 /home/recruit/Desktop/secpro.py 
+  129  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38019 /home/recruit/Desktop/secpro.py 
+  130  source /home/recruit/anaconda3/bin/activate
+  131  conda activate base
+  132  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/secpro.py
+  133  source /home/recruit/anaconda3/bin/activate
+  134  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39179 /home/recruit/Desktop/secpro.py 
+  135  conda activate base
+  136  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38701 /home/recruit/Desktop/secpro.py 
+  137  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40657 /home/recruit/Desktop/secpro.py 
+  138  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37307 /home/recruit/Desktop/secpro.py 
+  139  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36427 /home/recruit/Desktop/secpro.py 
+  140  source /home/recruit/anaconda3/bin/activate
+  141  conda activate base
+  142  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/secpro.py
+  143  source /home/recruit/anaconda3/bin/activate
+  144  conda activate base
+  145  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/secpro.py
+  146  source /home/recruit/anaconda3/bin/activate
+  147  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36857 /home/recruit/Desktop/secpro.py 
+  148  conda activate base
+  149  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41371 /home/recruit/Desktop/secpro.py 
+  150  cd /home/recruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/recruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=recruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=7489 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=2 SNAP_USER_COMMON=/home/recruit/snap/code/common USER=recruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/recruit HOME=/home/recruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=1912 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GJS_DEBUG_OUTPUT=stderr GDK_PIXBUF_MODULE_FILE=/home/recruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=DtxWW58McjsyMx7BD0V6BBW1hkHxNBl6M3SDb1tb0WBx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=xim XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/recruit/snap/code/common/.cache LOGNAME=recruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=DtxWW58McjsyMx7BD0V6BBW1hkHxNBl6M3SDb1tb0WBx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 'GJS_DEBUG_TOPICS=JS ERROR;JS LOG' SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/recruit-ThinkCentre-M73:@/tmp/.ICE-unix/1817,unix/recruit-ThinkCentre-M73:/tmp/.ICE-unix/1817 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/recruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/recruit/.config/Code/logs/20191126T114013 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-9bdfb7b1-1.40.1-main.sock VSCODE_PID=7537 CONDA_DEFAULT_ENV=base CONDA_EXE=/home/recruit/anaconda3/bin/conda CONDA_PREFIX=/home/recruit/anaconda3 'CONDA_PROMPT_MODIFIER=(base) ' CONDA_PYTHON_EXE=/home/recruit/anaconda3/bin/python CONDA_SHLVL=1 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= _CE_CONDA= _CE_M= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-720ec4f8-b507-4cf1-af1a-d9d5a4a55409.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/home/recruit/anaconda3/bin:/home/recruit/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 36567 /home/recruit/Desktop/secpro.py 
+  151  cd /home/recruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42183 /home/recruit/Desktop/secpro.py 
+  152  source /home/recruit/anaconda3/bin/activate
+  153  conda activate base
+  154  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/my1project/challenges.py
+  155  source /home/recruit/anaconda3/bin/activate
+  156  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38325 /home/recruit/Desktop/my1project/challenges.py 
+  157  conda activate base
+  158  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39621 /home/recruit/Desktop/my1project/challenges.py 
+  159  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41425 /home/recruit/Desktop/my1project/challenges.py 
+  160  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39727 /home/recruit/Desktop/my1project/challenges.py 
+  161  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37595 /home/recruit/Desktop/my1project/challenges.py 
+  162  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38923 /home/recruit/Desktop/my1project/challenges.py 
+  163  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42645 /home/recruit/Desktop/my1project/challenges.py 
+  164  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45705 /home/recruit/Desktop/my1project/challenges.py 
+  165  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38337 /home/recruit/Desktop/my1project/challenges.py 
+  166  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46599 /home/recruit/Desktop/my1project/challenges.py 
+  167  source /home/recruit/anaconda3/bin/activate
+  168  conda activate base
+  169  source /home/recruit/anaconda3/bin/activate
+  170  conda activate base
+  171  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/my1project/practice.py
+  172  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/my1project/Numpy.py
+  173  /home/recruit/anaconda3/bin/python /home/recruit/Desktop/my1project/Pandas.py
+  174  source /home/recruit/anaconda3/bin/activate
+  175  /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43937 /home/recruit/Desktop/my1project/practice.py 
+  176  conda activate base
+  177  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37123 /home/recruit/Desktop/my1project/practice.py 
+  178  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39851 /home/recruit/Desktop/my1project/practice.py 
+  179  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41243 /home/recruit/Desktop/my1project/practice.py 
+  180  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42083 /home/recruit/Desktop/my1project/practice.py 
+  181  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46533 /home/recruit/Desktop/my1project/practice.py 
+  182  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34987 /home/recruit/Desktop/my1project/Numpy.py 
+  183  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34765 /home/recruit/Desktop/my1project/Numpy.py 
+  184  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46409 /home/recruit/Desktop/my1project/Numpy.py 
+  185  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37253 /home/recruit/Desktop/my1project/Numpy.py 
+  186  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39983 /home/recruit/Desktop/my1project/Numpy.py 
+  187  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36345 /home/recruit/Desktop/my1project/Numpy.py 
+  188  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45837 /home/recruit/Desktop/my1project/Numpy.py 
+  189  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43045 /home/recruit/Desktop/my1project/Numpy.py 
+  190  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43059 /home/recruit/Desktop/my1project/Numpy.py 
+  191  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43335 /home/recruit/Desktop/my1project/Numpy.py 
+  192  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34149 /home/recruit/Desktop/my1project/Numpy.py 
+  193  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36801 /home/recruit/Desktop/my1project/Numpy.py 
+  194  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35389 /home/recruit/Desktop/my1project/Numpy.py 
+  195  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37877 /home/recruit/Desktop/my1project/Numpy.py 
+  196  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43757 /home/recruit/Desktop/my1project/Numpy.py 
+  197  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45695 /home/recruit/Desktop/my1project/Numpy.py 
+  198  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39943 /home/recruit/Desktop/my1project/Numpy.py 
+  199  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34223 /home/recruit/Desktop/my1project/Pandas.py 
+  200  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38059 /home/recruit/Desktop/my1project/Pandas.py 
+  201  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43747 /home/recruit/Desktop/my1project/Pandas.py 
+  202  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39411 /home/recruit/Desktop/my1project/Pandas.py 
+  203  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45261 /home/recruit/Desktop/my1project/Pandas.py 
+  204  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46277 /home/recruit/Desktop/my1project/list.py 
+  205  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37549 /home/recruit/Desktop/my1project/list.py 
+  206  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34203 /home/recruit/Desktop/my1project/list.py 
+  207  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33225 /home/recruit/Desktop/my1project/list.py 
+  208  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40271 /home/recruit/Desktop/my1project/list.py 
+  209  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38335 /home/recruit/Desktop/my1project/list.py 
+  210  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40339 /home/recruit/Desktop/my1project/list.py 
+  211  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35017 /home/recruit/Desktop/my1project/list.py 
+  212  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39403 /home/recruit/Desktop/my1project/list.py 
+  213  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45543 /home/recruit/Desktop/my1project/list.py 
+  214  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38859 /home/recruit/Desktop/my1project/list.py 
+  215  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43995 /home/recruit/Desktop/my1project/list.py 
+  216  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42845 /home/recruit/Desktop/my1project/list.py 
+  217  cd /home/recruit/Desktop/my1project ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/recruit/anaconda3/bin/python /home/recruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40999 /home/recruit/Desktop/my1project/list.py 
+  218  sudo apt install vim
+  219  cd\
+  220  ls
+  221  cd pictures
+  222  cd Pictures
+  223  ls
+  224  cp Task1.png Task1Copy.png
+  225  ls
+  226  cd tmp
+  227  cdcd tmp
+  228  cd ..
+  229  ls
+  230  cd workspace
+  231  ls
+  232  mkdir Task3
+  233  ls
+  234  cd Task3
+  235  touch umuzi.md && recruits.md && cohort.md
+  236  ls
+  237  unlink umuzi.md
+  238  ls
+  239  touch umuzi.md recruits.md cohort.md
+  240  ls
+  241  vim cohort.md
+  242  apt install vim
+  243  cdapt install vim
+  244  cd ..
+  245  apt install vim
+  246  ls
+  247  cd workspace
+  248  ls
+  249  cd task3
+  250  ls
+  251  cd Task3
+  252  l
+  253  ls
+  254  cat cohort.md recruits.md umuzi.md
+  255  cat cohort.md
+  256  vim cohort.md
+  257  sudo vim cohort.md
+  258  sudo apt install vim
+  259  vim cohort.md
+  260  ls
+  261  pwd
+  262  ls
+  263  pwd
+  264  mkdir workspace
+  265  ls
+  266  cd workspace
+  267  ls
+  268  touch README.md
+  269  ls
+  270  cp README.md CHANGELOG.md
+  271  ls
+  272  cd task3
+  273  cd Task3
+  274  ls
+  275  cat cohort.md
+  276  cat recruits.md
+  277  cat umuzi.md
+  278  l
+  279  ls
+  280  vim cohort.md
+  281  cat cohort.md
+  282  ls
+  283  cat cohort.md recruits.md umuzi.md
+  284  cat umuzi.md
+  285  cat cohort.md recruits.md umuzi.md
+  286  cat cohort.md recruits.md umuzi.md > summary.md
+  287  cat summary.md
+  288  cat cohort.md recruits.md umuzi.md > summary.md
+  289  cat summary.md
+  290  cat "The end" >> summary.md
+  291  cat >> summary.md
+  292  cat summary.md
+  293  vim summary.md 
+  294  cat summary.md
+  295  cat >> summary.md
+  296  cat summary.md
+  297  vim summary.md 
+  298  cat >> summary.md
+  299  cat summary.md
+  300  echo "the end2">> summary.md 
+  301  cat summary.md
+  302  vim summary.md 
+  303  cat >> summary.md
+  304  cat summary.md
+  305  vim summary.md
+  306  cat summary.md
+  307  cat >> summary.md
+  308  cat summary.md
+  309  ls
+  310  find cohort
+  311  find cohort.md
+  312  find -exec file  | grep ASCII
+  313  find -exec file {} \; | grep cohort
+  314  find  | grep cohort
+  315  find grep cohort
+  316  find | grep cohort
+  317  cd ..
+  318  cd workspace
+  319  ls
+  320  mkdir Task4
+  321  ls
+  322  cd Task4
+  323  find | grep umuzi
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd Task3
+  328  ls
+  329  find | grep umuzi
+  330  find | grep umuzi > search_result.md
+  331  ls
+  332  cat search_result.md
+  333  cd ..
+  334  cd Task4
+  335  find | grep umuzi
+  336  find | grep umuzi > search_result.md
+  337  ls
+  338  cd ..
+  339  ls
+  340  cd Task3
+  341  find | grep umuzi
+  342  find | grep umuzi > search_result.md
+  343  cat search_result.md
+  344  cd ..
+  345  ls
+  346  cd Documents
+  347  touch pad.md
+  348  cd ..
+  349  cd Desktop
+  350  cp /home/recruit/Documents/pad.md pad_copy.md
+  351  ls
+  352  locate updatedb
+  353  cd ~
+  354  ls
+  355  locate pad_copy.md
+  356  locate updatedb
+  357  locate pad_copy.md
+  358  cd Desktop
+  359  ls
+  360  locate pad_copy.md
+  361  cd ..
+  362  cd Desktop
+  363  locate updatedb
+  364  cd ~
+  365  locate pad_copy.md
+  366  ls
+  367  find ./recruit -name *.pdf
+  368  find -name *.pdf
+  369  ls
+  370  Find -name *.pdf
+  371  ls
+  372  Find -name *.pdf
+  373  find -name *.pdf
+  374  ls
+  375  find -name *.pdf
+  376  find *.pdf ~/Workspace/Task 6
+  377  find *.pdf "~/Workspace/Task 6"
+  378  ls
+  379  find *.pdf "~/workspace/Task 6"
+  380  cd workspace
+  381  ls
+  382  cd cd ..
+  383  cd ..
+  384  ls
+  385  cd workspace
+  386  ls
+  387  cd Task ^
+  388  cd Task 6
+  389  cd "Task 6"
+  390  cd ..
+  391  l
+  392  cd workspace
+  393  ls
+  394  cd "Task 6"
+  395  find -name *.pdf
+  396  find ./recruit -name *.pdf
+  397  find ~ -name *.pdf
+  398  cd ..
+  399  ls
+  400  find ~ -name *.pdf > "~/workspace/Task 6"
+  401  find ~ -name *.pdf >> "~/workspace/Task 6"
+  402  cd workspace
+  403  cd "Task 6"
+  404  ls
+  405  find ~ -name *.pdf > pdfresults.txt
+  406  cat pdfresults.txt
+  407  find /home/recruit -mtime -0.5 -ls
+  408  cd ~
+  409  ls
+  410  find /home/recruit -mtime -0.5 -ls
+  411  pwd
+  412  cd ..
+  413  cd ~/tmp
+  414  cd ~/home/tmp
+  415  cd ~/home/recruit/tmp
+  416  cd /home/recruit/tmp
+  417  cd ../home/recruit/tmp
+  418  cd ../tmp
+  419  nano my_bio.md
+  420  ls
+  421  cd workspace
+  422  ls
+  423  mkdir my_files
+  424  ls
+  425  cd my_files
+  426  cd ..
+  427  ls
+  428  cp my_bio.md ~/workspace/my_files
+  429  cd workspace
+  430  cd my_files
+  431  ls
+  432  cd ..
+  433  touch exercise.md
+  434  ls
+  435  mv exercise.md /tmp 
+  436  mv exercise.md ~/tmp 
+  437  rm exercise.md /home
+  438  ls -lah /tmp
+  439  unlink exercise.md -lah /tmp
+  440  unlink exercise.md  /tmp
+  441  unlink exercise.md /tmp
+  442  rm exercise.md /tmp
+  443  cd /tmp
+  444  ls
+  445  unlink exercise.md
+  446  ls
+  447  cd ..
+  448  ls
+  449  cd
+  450  ls
+  451  touch exercise.md
+  452  ls
+  453  mv exercise.md /tmp
+  454  ls
+  455  cd /tmp
+  456  ls
+  457  rm exercise.md ../tmp
+  458  cd..
+  459  cd ..
+  460  cd
+  461  rm exercise.md ../tmp
+  462  cd /tmp
+  463  ls
+  464  cd
+  465  ls
+  466  touch exercise.md
+  467  ls
+  468  mv exercise.md /tmp
+  469  cd /tmp
+  470  ls
+  471  cd
+  472  rm exercise.md ../tmp
+  473  ls
+  474  touch exercise.md
+  475  mv exercise.md /tmp
+  476  cd /tmp
+  477  ls
+  478  rm exercise.md
+  479  ls
+  480  cd
+  481  sudo apt install git
+  482  git clone https://github.com/khwathisi/Beginner-Linux-Challenges.git
+  483  cd Beginner-Linux-Challenges/
+  484  ls
+  485  git add *
+  486  git status
+  487  git commit -m "Linux Challenges"
+  488  git config --global user.email "godfrey.khwathisi@umuzi.org"
+  489  git config --global user.name "Khwathisi"
+  490  git commit -m "Linux Challenges"
+  491  git push
+  492  sudo snap install intellij-idea-community --classic
+  493  conda deactivate
+  494  sudo nano /etc/crontab 
+  495  shutdown now
+  496  ls
+  497  cd workspace
+  498  ls
+  499  cd "Git Basic Exercises"
+  500  mkdir git-basic-exercises
+  501  cd git-basic-exercises
+  502  ls -a
+  503  git init
+  504  ls -a
+  505  git status
+  506  touch README.md
+  507  ls -a
+  508  git status
+  509  git log
+  510  git add
+  511  git add README.md
+  512  git status
+  513  git reset README.md
+  514  git status
+  515  git add README.md
+  516  git status
+  517  git commit -m "initial commit"
+  518  git log
+  519  ls
+  520  nano README.md
+  521  cat README.md
+  522  git status
+  523  git commit -m "Second commit"
+  524* git add 
+  525  git add README.md
+  526  git status
+  527  cat README.md
+  528  cat > README.md
+  529  cat README.md
+  530  git add README.md
+  531  git commit -m "Thid commit"
+  532  git status
+  533  git log
+  534  q
+  535  git checkout 55fb74ca30471255c52c3ca57dc38a0bae7742c1
+  536  cat README.md
+  537  git checkout master
+  538  cat README.md
+  539  git branch
+  540  git branch milkshake-flavours
+  541  git branch
+  542  git branch *
+  543  git branch
+  544  git branch milkshake-flavours
+  545  git branch * milkshake-flavours
+  546  git checkout milkshake-flavours
+  547  git branch
+  548  nano milkshakes.md
+  549  cat milkshakes.md
+  550  git status
+  551  git add milkshakes.md
+  552  git commit milkshakes.md
+  553  git log
+  554  git checkout master
+  555  git status
+  556  git checkout history
+  557  git log
+  558  history
+  559  history > history.txt
